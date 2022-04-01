@@ -1,4 +1,5 @@
 # Provision an EKS Cluster with Terraform CI/CD on AWS
 
-Notes: Verify Credential in workspaces. 
+Notes: Set up CredentialS in Github, Terraform Cloud. 
+
 
